@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Praktikum 5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="hint_input_prodi"> Masukan Nama Prodi Anda </string>
+    <string name="btn_prodi"> Submit Prodi </string>
+
+    <string name="btn_call_browser"> Pergi ke Web ITTP </string>
+    <string name="btn_call_camera"> Buka Kamera </string>
+
+    <string name="input_phone_number"> Masukan Nomor Telepon Anda </string>
+    <string name="btn_call_phone"> Telepon </string>
+
+    <string name="btn_fragment"> Materi Fragment </string>
+    <string name="fragment_second"> Data Nama dan Nim </string>
+    <string name="btn_kembali_beranda"> Kembali ke beranda </string>
+    <string name="fragment_first"> Data Nama dan Nim </string>
+    <string name="input_nama"> Masukan Nama Anda </string>
+    <string name="input_nim"> Masukan Nim Anda </string>
+    <string name="btn_to_second_fragment"> Submit Data </string>
+
+</resources>
