@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="name">Nama</string>
+    <string name="default_name">Default Nama</string>
+
+    <string name="email">Email</string>
+    <string name="default_email">Default Email</string>
+
+    <string name="phone">Telepon</string>
+    <string name="default_phone">Default Telepon</string>
+
+    <string name="age">Umur</string>
+    <string name="default_age">Default Umur</string>
+
+    <string name="tv_theme">Tema</string>
+    <string name="default_theme">Default Tema</string>
+
+    <string name="tv_tgl_lahir">Tanggal Lahir</string>
+    <string name="default_tgl_lahir">Default Tanggal Lahir</string>
+
+    <string name="tv_jenis_kelamin">Jenis Kelamin</string>
+    <string name="default_jenis_kelamin">Default Jenis Kelamin</string>
+
+    <string name="setting">Settings</string>
+    <string name="main_title">Dasboard</string>
+    <string name="save">Simpan</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="dark_theme">Tema Gelap</string>
+    <string name="setting_page">Setting</string>
+
+    <string name="field_required">Kolom Tidak Boleh Kosong</string>
+    <string name="email_is_not_valid">Email Tidak Valid</string>
+    <string name="field_digit_only">Kolom Hanya Angka</string>
+    <string name="light_theme">Tema Terang</string>
+    <string name="settings">Settings</string>
+
+</resources>
